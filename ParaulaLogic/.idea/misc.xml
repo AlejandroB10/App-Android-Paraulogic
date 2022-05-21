@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_acerca_de.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_ajustes.xml" value="0.1" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_gestionar_jugador.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_informacio.xml" value="0.1490036231884058" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_paraulogic.xml" value="0.39965397923875434" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_ranking.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_registre_jugador.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/fragment_gestion_jugador.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/fragment_inicio.xml" value="0.2" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/fragment_ranking.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/fragment_registre_jugador.xml" value="0.25" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/item_grid_avatar.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/item_list_jugador.xml" value="0.1" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/layout/item_list_resultado.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.137" />
+        <entry key="..\:/Users/alebo/OneDrive/Documentos/Estructura de Datos II/ParaulaLogic/app/src/main/res/xml/preferencias.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

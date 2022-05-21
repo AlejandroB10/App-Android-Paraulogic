@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ParaulaLogic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jugar">JUGAR</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="cofiguracio">COFIGURACIO</string>
+    <string name="info_sobre_de"> Aquesta aplicació es un projecte de l`assignatura de Algorísmia i Estructures de Dades II. \n
+        Els autors del projecte son Alejandro Rafael Bordón Duarte y Miquel Barcelo Orell, estudiants de la carrera d`Enginyeria Informàtica a la Universitat de les Illes Balears (UIB). \n
+        Professora: Silvia Ramis</string>
+    <string name="info_joc">
+* Cal formar paraules amb aquestes lletres. Les lletres es poden repetir.\n
+* La lletra del mig és obligatòria.\n
+* Les paraules han de tenir un mínim de 3 lletres.\n
+* Dels verbs només s’admeten els infinitius (no les formes conjugades). Dels noms i adjectius s’admeten les formes masculina i femenina (no els plurals).\n
+* No s’admeten noms propis; només paraules que figurin al Diccionari de la llengua catalana de l’Institut d’Estudis Catalans (DIEC).</string>
+</resources>
